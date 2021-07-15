@@ -1,0 +1,1452 @@
+{
+    "equipments": [
+        {
+            "EqID": "0390W01",
+            "Line": "C",
+            "EqName": "Digital Weight",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "1"
+        },
+        {
+            "EqID": "0390W02",
+            "Line": "A",
+            "EqName": "Digital Weight",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "3"
+        },
+        {
+            "EqID": "0393W03",
+            "Line": "A",
+            "EqName": "Digital Weight",
+            "Unit": "PP3",
+            "pic": "0390W01.JPG",
+            "id": "4"
+        },
+        {
+            "EqID": "0393W04",
+            "Line": "A",
+            "EqName": "Digital Weight",
+            "Unit": "PP3",
+            "pic": "0390W01.JPG",
+            "id": "5"
+        },
+        {
+            "EqID": "0393W05",
+            "Line": "A",
+            "EqName": "Digital Weight",
+            "Unit": "PP3",
+            "pic": "0390W01.JPG",
+            "id": "6"
+        },
+        {
+            "EqID": "0393W06",
+            "Line": "A",
+            "EqName": "Digital Weight",
+            "Unit": "PP3",
+            "pic": "0390W01.JPG",
+            "id": "7"
+        },
+        {
+            "EqID": "0393W07",
+            "Line": "A",
+            "EqName": "Digital Weight",
+            "Unit": "PP3",
+            "pic": "0390W01.JPG",
+            "id": "8"
+        },
+        {
+            "EqID": "30H010A",
+            "Line": "A",
+            "EqName": "Transport Belt",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "9"
+        },
+        {
+            "EqID": "30H010B",
+            "Line": "B",
+            "EqName": "Transport Belt",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "10"
+        },
+        {
+            "EqID": "30H010C",
+            "Line": "C",
+            "EqName": "Transport Belt",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "11"
+        },
+        {
+            "EqID": "30H011A",
+            "Line": "A",
+            "EqName": "Transport Belt",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "12"
+        },
+        {
+            "EqID": "30H011B",
+            "Line": "B",
+            "EqName": "Transport Belt",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "13"
+        },
+        {
+            "EqID": "30H011C",
+            "Line": "C",
+            "EqName": "Transport Belt",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "14"
+        },
+        {
+            "EqID": "30H012A",
+            "Line": "A",
+            "EqName": "Press Belt",
+            "Unit": "PP12",
+            "pic": "Press_Belt_PP12A.JPG",
+            "id": "15"
+        },
+        {
+            "EqID": "30H012B",
+            "Line": "B",
+            "EqName": "Press Belt",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "16"
+        },
+        {
+            "EqID": "30H012C",
+            "Line": "C",
+            "EqName": "Press Belt",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "17"
+        },
+        {
+            "EqID": "30H013.1A",
+            "Line": "A",
+            "EqName": "Stop Start Conveyor",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "18"
+        },
+        {
+            "EqID": "30H013.1B",
+            "Line": "B",
+            "EqName": "Stop Start Conveyor",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "19"
+        },
+        {
+            "EqID": "30H013.1C",
+            "Line": "C",
+            "EqName": "Stop Start Conveyor",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "20"
+        },
+        {
+            "EqID": "30H013.2A",
+            "Line": "A",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "21"
+        },
+        {
+            "EqID": "30H013.2B",
+            "Line": "B",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "22"
+        },
+        {
+            "EqID": "30H013.2C",
+            "Line": "C",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP12",
+            "pic": "30H013.2C.JPG",
+            "id": "23"
+        },
+        {
+            "EqID": "30H013.3A",
+            "Line": "A",
+            "EqName": "Infeed Roller Conveyor",
+            "Unit": "PP12",
+            "pic": "30H013.3A.JPG",
+            "id": "24"
+        },
+        {
+            "EqID": "30H013.3B",
+            "Line": "B",
+            "EqName": "Infeed Roller Conveyor",
+            "Unit": "PP12",
+            "pic": "30H013.3B.JPG",
+            "id": "25"
+        },
+        {
+            "EqID": "30H013.3C",
+            "Line": "C",
+            "EqName": "Infeed Roller Conveyor",
+            "Unit": "PP12",
+            "pic": "30H013.3C.JPG",
+            "id": "26"
+        },
+        {
+            "EqID": "30H013.4A",
+            "Line": "A",
+            "EqName": "Loading Conveyor",
+            "Unit": "PP12",
+            "pic": "30H013.4A.JPG",
+            "id": "27"
+        },
+        {
+            "EqID": "30H013.4B",
+            "Line": "B",
+            "EqName": "Loading Conveyor",
+            "Unit": "PP12",
+            "pic": "30H013.4B.JPG",
+            "id": "28"
+        },
+        {
+            "EqID": "30H013.4C",
+            "Line": "C",
+            "EqName": "Loading Conveyor",
+            "Unit": "PP12",
+            "pic": "30H013.4C.JPG",
+            "id": "29"
+        },
+        {
+            "EqID": "30H013.5A",
+            "Line": "A",
+            "EqName": "Empty Pallet Infeed Conveyor",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "30"
+        },
+        {
+            "EqID": "30H013.5B",
+            "Line": "B",
+            "EqName": "Empty Pallet Infeed Conveyor",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "31"
+        },
+        {
+            "EqID": "30H013.5C",
+            "Line": "C",
+            "EqName": "Empty Pallet Infeed Conveyor",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "32"
+        },
+        {
+            "EqID": "30H013A",
+            "Line": "A",
+            "EqName": "Palletizer",
+            "Unit": "PP12",
+            "pic": "30H013A.JPG",
+            "id": "33"
+        },
+        {
+            "EqID": "30H013B",
+            "Line": "B",
+            "EqName": "Palletizer",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "34"
+        },
+        {
+            "EqID": "30H013C",
+            "Line": "C",
+            "EqName": "Palletizer",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "35"
+        },
+        {
+            "EqID": "30H014.1A",
+            "Line": "A",
+            "EqName": "Driven Roller Conveyor For Pallet",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "36"
+        },
+        {
+            "EqID": "30H014.1B",
+            "Line": "B",
+            "EqName": "Driven Roller Conveyor For Pallet",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "37"
+        },
+        {
+            "EqID": "30H014.1C",
+            "Line": "C",
+            "EqName": "Driven Roller Conveyor For Pallet",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "38"
+        },
+        {
+            "EqID": "30H014.2A",
+            "Line": "A",
+            "EqName": "Driven Roller Conveyor For Pallet",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "39"
+        },
+        {
+            "EqID": "30H014.2B",
+            "Line": "B",
+            "EqName": "Driven Roller Conveyor For Pallet",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "40"
+        },
+        {
+            "EqID": "30H014.2C",
+            "Line": "C",
+            "EqName": "Driven Roller Conveyor For Pallet",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "41"
+        },
+        {
+            "EqID": "30H014A",
+            "Line": "A",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "42"
+        },
+        {
+            "EqID": "30H014B",
+            "Line": "B",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "43"
+        },
+        {
+            "EqID": "30H014C",
+            "Line": "C",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "44"
+        },
+        {
+            "EqID": "30H015A",
+            "Line": "A",
+            "EqName": "Flattenning Conveyor",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "45"
+        },
+        {
+            "EqID": "30H016",
+            "Line": "Shink Machine",
+            "EqName": "Shink Machine",
+            "Unit": "PP12",
+            "pic": "0390W01.JPG",
+            "id": "46"
+        },
+        {
+            "EqID": "30H016A",
+            "Line": "A",
+            "EqName": "Turnning Device",
+            "Unit": "PP12",
+            "pic": "30H016A.JPG",
+            "id": "47"
+        },
+        {
+            "EqID": "30H017A",
+            "Line": "A",
+            "EqName": "Palletizer A",
+            "Unit": "PP12",
+            "pic": "30H017A.JPG",
+            "id": "48"
+        },
+        {
+            "EqID": "30H018A",
+            "Line": "A",
+            "EqName": "Discharge Roller Conveyor",
+            "Unit": "PP12",
+            "pic": "30H018A.JPG",
+            "id": "49"
+        },
+        {
+            "EqID": "30H019A",
+            "Line": "A",
+            "EqName": "Car Conveyor",
+            "Unit": "PP12",
+            "pic": "30H019A.JPG",
+            "id": "50"
+        },
+        {
+            "EqID": "30H085",
+            "Line": "Conveying Chute",
+            "EqName": "Conveying Chute",
+            "Unit": "PP12",
+            "pic": "30H085.JPG",
+            "id": "51"
+        },
+        {
+            "EqID": "30S010A",
+            "Line": "A",
+            "EqName": "Metal Detector",
+            "Unit": "PP12",
+            "pic": "30S010A.JPG",
+            "id": "52"
+        },
+        {
+            "EqID": "30S010B",
+            "Line": "B",
+            "EqName": "Metal Detector",
+            "Unit": "PP12",
+            "pic": "NULL",
+            "id": "53"
+        },
+        {
+            "EqID": "30S010C",
+            "Line": "C",
+            "EqName": "Metal Detector",
+            "Unit": "PP12",
+            "pic": "NULL",
+            "id": "54"
+        },
+        {
+            "EqID": "30T001",
+            "Line": "Roller Conveyor",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP12",
+            "pic": "NULL",
+            "id": "55"
+        },
+        {
+            "EqID": "30T002",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP12",
+            "pic": "NULL",
+            "id": "56"
+        },
+        {
+            "EqID": "30T002-T01",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP12",
+            "pic": "NULL",
+            "id": "57"
+        },
+        {
+            "EqID": "30T003",
+            "Line": "Gate Conveyor",
+            "EqName": "Gate Conveyor",
+            "Unit": "PP12",
+            "pic": "NULL",
+            "id": "58"
+        },
+        {
+            "EqID": "30T003-T01",
+            "Line": "Gate Conveyor",
+            "EqName": "Gate Conveyor",
+            "Unit": "PP12",
+            "pic": "NULL",
+            "id": "59"
+        },
+        {
+            "EqID": "30W010A",
+            "Line": "A",
+            "EqName": "Bagging Machine",
+            "Unit": "PP12",
+            "pic": "30W010A.JPG",
+            "id": "60"
+        },
+        {
+            "EqID": "30W010B",
+            "Line": "B",
+            "EqName": "Bagging Machine",
+            "Unit": "PP12",
+            "pic": "30W010B_2.JPG",
+            "id": "61"
+        },
+        {
+            "EqID": "30W010C",
+            "Line": "C",
+            "EqName": "Bagging Machine",
+            "Unit": "PP12",
+            "pic": "30W010C.JPG",
+            "id": "62"
+        },
+        {
+            "EqID": "30W011A",
+            "Line": "A",
+            "EqName": "On-line Weight A",
+            "Unit": "PP12",
+            "pic": "30W011A.JPG",
+            "id": "63"
+        },
+        {
+            "EqID": "30W011B",
+            "Line": "B",
+            "EqName": "On-line Weight B",
+            "Unit": "PP12",
+            "pic": "30W011B.JPG",
+            "id": "64"
+        },
+        {
+            "EqID": "30W011C",
+            "Line": "C",
+            "EqName": "On-line Weight C",
+            "Unit": "PP12",
+            "pic": "30W011C.JPG",
+            "id": "65"
+        },
+        {
+            "EqID": "30W050A",
+            "Line": "Jumbo A",
+            "EqName": "Jumbo A",
+            "Unit": "PP12",
+            "pic": "30W050A.JPG",
+            "id": "66"
+        },
+        {
+            "EqID": "30W050B",
+            "Line": "Jumbo B",
+            "EqName": "Jumbo B",
+            "Unit": "PP12",
+            "pic": "30W050B.JPG",
+            "id": "67"
+        },
+        {
+            "EqID": "35W010A",
+            "Line": "A",
+            "EqName": "Bagging Machine",
+            "Unit": "HD",
+            "pic": "35W010A.JPG",
+            "id": "68"
+        },
+        {
+            "EqID": "35W012A",
+            "Line": "A",
+            "EqName": "Belt Conveyor A",
+            "Unit": "HD",
+            "pic": "35W012A.JPG",
+            "id": "69"
+        },
+        {
+            "EqID": "35W013A",
+            "Line": "A",
+            "EqName": "Palletizer Machain A",
+            "Unit": "HD",
+            "pic": "35W013A.JPG",
+            "id": "70"
+        },
+        {
+            "EqID": "35W050A",
+            "Line": "Jumbo A",
+            "EqName": "Jumbo A",
+            "Unit": "HD",
+            "pic": "35W050A.JPG",
+            "id": "71"
+        },
+        {
+            "EqID": "35W050B",
+            "Line": "Jumbo B",
+            "EqName": "Jumbo B",
+            "Unit": "HD",
+            "pic": "35W050B.JPG",
+            "id": "72"
+        },
+        {
+            "EqID": "55F012A",
+            "Line": "A",
+            "EqName": "Dust Collector",
+            "Unit": "PPC",
+            "pic": "55F012A.JPG",
+            "id": "73"
+        },
+        {
+            "EqID": "55F012B",
+            "Line": "B",
+            "EqName": "Dust Collector",
+            "Unit": "PPC",
+            "pic": "55F012B.JPG",
+            "id": "74"
+        },
+        {
+            "EqID": "55S010A",
+            "Line": "A",
+            "EqName": "Deduster",
+            "Unit": "PPC",
+            "pic": "55F012B.JPG",
+            "id": "75"
+        },
+        {
+            "EqID": "55S010B",
+            "Line": "B",
+            "EqName": "Deduster",
+            "Unit": "PPC",
+            "pic": "55F012B.JPG",
+            "id": "76"
+        },
+        {
+            "EqID": "99A010A",
+            "Line": "A",
+            "EqName": "Bagging Machine",
+            "Unit": "PP3",
+            "pic": "99A010A.JPG",
+            "id": "77"
+        },
+        {
+            "EqID": "99A010B",
+            "Line": "B",
+            "EqName": "Bagging Machine",
+            "Unit": "PP3",
+            "pic": "99A010B.JPG",
+            "id": "78"
+        },
+        {
+            "EqID": "99A010C",
+            "Line": "C",
+            "EqName": "Bagging Machine",
+            "Unit": "PPE",
+            "pic": "99A010C.JPG",
+            "id": "79"
+        },
+        {
+            "EqID": "99A010D",
+            "Line": "D",
+            "EqName": "Bagging Machine",
+            "Unit": "PPE",
+            "pic": "99A010D.JPG",
+            "id": "80"
+        },
+        {
+            "EqID": "99A020A",
+            "Line": "A",
+            "EqName": "Palletizer",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "81"
+        },
+        {
+            "EqID": "99A020B",
+            "Line": "B",
+            "EqName": "Palletizer",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "82"
+        },
+        {
+            "EqID": "99A030C",
+            "Line": "C",
+            "EqName": "Stretch Hood",
+            "Unit": "PPE",
+            "pic": "55F012B.JPG",
+            "id": "83"
+        },
+        {
+            "EqID": "99A030D",
+            "Line": "D",
+            "EqName": "Stretch Hood",
+            "Unit": "PPE",
+            "pic": "55F012B.JPG",
+            "id": "84"
+        },
+        {
+            "EqID": "99A040C",
+            "Line": "C",
+            "EqName": "Deduster",
+            "Unit": "PPE",
+            "pic": "55F012B.JPG",
+            "id": "85"
+        },
+        {
+            "EqID": "99A040D",
+            "Line": "D",
+            "EqName": "Deduster",
+            "Unit": "PPE",
+            "pic": "55F012B.JPG",
+            "id": "86"
+        },
+        {
+            "EqID": "99A050A",
+            "Line": "A",
+            "EqName": "Deduster",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "87"
+        },
+        {
+            "EqID": "99AF050A",
+            "Line": "A",
+            "EqName": "Deduster",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "88"
+        },
+        {
+            "EqID": "99F020A",
+            "Line": "A",
+            "EqName": "Dust Collector",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "89"
+        },
+        {
+            "EqID": "99F020B",
+            "Line": "B",
+            "EqName": "Dust Collector",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "90"
+        },
+        {
+            "EqID": "99F050C",
+            "Line": "C",
+            "EqName": "Dust Collector",
+            "Unit": "PPE",
+            "pic": "55F012B.JPG",
+            "id": "91"
+        },
+        {
+            "EqID": "99F050D",
+            "Line": "D",
+            "EqName": "Dust Collector",
+            "Unit": "PPE",
+            "pic": "55F012B.JPG",
+            "id": "92"
+        },
+        {
+            "EqID": "99H010A",
+            "Line": "A",
+            "EqName": "Transport Belt",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "93"
+        },
+        {
+            "EqID": "99H010B",
+            "Line": "B",
+            "EqName": "Transport Belt",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "94"
+        },
+        {
+            "EqID": "99H011A",
+            "Line": "A",
+            "EqName": "Press Belt",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "95"
+        },
+        {
+            "EqID": "99H011B",
+            "Line": "B",
+            "EqName": "Press Belt",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "96"
+        },
+        {
+            "EqID": "99H012A",
+            "Line": "A",
+            "EqName": "Transport Belt Curve",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "97"
+        },
+        {
+            "EqID": "99H012B",
+            "Line": "B",
+            "EqName": "Transport Belt Curve",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "98"
+        },
+        {
+            "EqID": "99H013B",
+            "Line": "B",
+            "EqName": "Transport Belt",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "99"
+        },
+        {
+            "EqID": "99H014A",
+            "Line": "A",
+            "EqName": "Transport Belt",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "100"
+        },
+        {
+            "EqID": "99H014B",
+            "Line": "B",
+            "EqName": "Transport Belt",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "101"
+        },
+        {
+            "EqID": "99H015A",
+            "Line": "A",
+            "EqName": "Transport Belt Curve",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "102"
+        },
+        {
+            "EqID": "99H015B",
+            "Line": "B",
+            "EqName": "Transport Belt Curve",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "103"
+        },
+        {
+            "EqID": "99H016A",
+            "Line": "A",
+            "EqName": "Transport Belt Inclined",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "104"
+        },
+        {
+            "EqID": "99H016B",
+            "Line": "B",
+            "EqName": "Transport Belt Inclined",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "105"
+        },
+        {
+            "EqID": "99H017A",
+            "Line": "A",
+            "EqName": "Roller Conveyor Infeed",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "106"
+        },
+        {
+            "EqID": "99H017B",
+            "Line": "B",
+            "EqName": "Roller Conveyor Infeed",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "107"
+        },
+        {
+            "EqID": "99H018A",
+            "Line": "A",
+            "EqName": "Press Belt",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "108"
+        },
+        {
+            "EqID": "99H018B",
+            "Line": "B",
+            "EqName": "Press Belt",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "109"
+        },
+        {
+            "EqID": "99H019A",
+            "Line": "A",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "110"
+        },
+        {
+            "EqID": "99H019B",
+            "Line": "B",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "111"
+        },
+        {
+            "EqID": "99H020A",
+            "Line": "A",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "112"
+        },
+        {
+            "EqID": "99H020B",
+            "Line": "B",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "113"
+        },
+        {
+            "EqID": "99H021A",
+            "Line": "A",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "114"
+        },
+        {
+            "EqID": "99H021B",
+            "Line": "B",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "115"
+        },
+        {
+            "EqID": "99H022A",
+            "Line": "A",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "116"
+        },
+        {
+            "EqID": "99H022B",
+            "Line": "B",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "117"
+        },
+        {
+            "EqID": "99H023A",
+            "Line": "A",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "118"
+        },
+        {
+            "EqID": "99H023B",
+            "Line": "B",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "119"
+        },
+        {
+            "EqID": "99H024A",
+            "Line": "A",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "120"
+        },
+        {
+            "EqID": "99H024B",
+            "Line": "B",
+            "EqName": "Roller Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "121"
+        },
+        {
+            "EqID": "99K020A",
+            "Line": "A",
+            "EqName": "Wash Air Filter",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "122"
+        },
+        {
+            "EqID": "99K020B",
+            "Line": "B",
+            "EqName": "Wash Air Filter",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "123"
+        },
+        {
+            "EqID": "99K030A",
+            "Line": "A",
+            "EqName": "Exhaust Fan",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "124"
+        },
+        {
+            "EqID": "99K030B",
+            "Line": "B",
+            "EqName": "Exhaust Fan",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "125"
+        },
+        {
+            "EqID": "99KF020B",
+            "Line": "B",
+            "EqName": "Air Inlet Filter",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "126"
+        },
+        {
+            "EqID": "99KF20A",
+            "Line": "A",
+            "EqName": "Air Inlet Filter",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "127"
+        },
+        {
+            "EqID": "99S010A",
+            "Line": "A",
+            "EqName": "Metal Detector",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "128"
+        },
+        {
+            "EqID": "99S010B",
+            "Line": "B",
+            "EqName": "Metal Detector",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "129"
+        },
+        {
+            "EqID": "99S011A",
+            "Line": "A",
+            "EqName": "Pusher With Transfer Belt",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "130"
+        },
+        {
+            "EqID": "99S011B",
+            "Line": "B",
+            "EqName": "Pusher With Transfer Belt",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "131"
+        },
+        {
+            "EqID": "99T101",
+            "Line": "Up-Down Conveyor",
+            "EqName": "Up-Down Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "132"
+        },
+        {
+            "EqID": "99T102",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "133"
+        },
+        {
+            "EqID": "99T103",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "134"
+        },
+        {
+            "EqID": "99T104",
+            "Line": "Up-Down Conveyor",
+            "EqName": "Up-Down Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "135"
+        },
+        {
+            "EqID": "99T105",
+            "Line": "Up-Down Conveyor",
+            "EqName": "Up-Down Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "136"
+        },
+        {
+            "EqID": "99T106",
+            "Line": "Emergency Chain Conveyor",
+            "EqName": "Emergency Chain Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "137"
+        },
+        {
+            "EqID": "99T107",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "138"
+        },
+        {
+            "EqID": "99T108",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "139"
+        },
+        {
+            "EqID": "99T109",
+            "Line": "Turntable Conveyor",
+            "EqName": "Turntable Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "140"
+        },
+        {
+            "EqID": "99T110",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "141"
+        },
+        {
+            "EqID": "99T111",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "142"
+        },
+        {
+            "EqID": "99T112",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "143"
+        },
+        {
+            "EqID": "99T113",
+            "Line": "Lifter",
+            "EqName": "Lifter",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "144"
+        },
+        {
+            "EqID": "99T114",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "145"
+        },
+        {
+            "EqID": "99T115",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "146"
+        },
+        {
+            "EqID": "99T116",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "147"
+        },
+        {
+            "EqID": "99T117",
+            "Line": "Chain Conveyor",
+            "EqName": "Chain Conveyor",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "148"
+        },
+        {
+            "EqID": "99T118",
+            "Line": "Pump Hydraulic",
+            "EqName": "Pump Hydraulic",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "149"
+        },
+        {
+            "EqID": "99W010A",
+            "Line": "A",
+            "EqName": "Sealing System",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "150"
+        },
+        {
+            "EqID": "99W010B",
+            "Line": "B",
+            "EqName": "Weighing Scale",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "151"
+        },
+        {
+            "EqID": "99W010BS",
+            "Line": "B",
+            "EqName": "Sealing System",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "152"
+        },
+        {
+            "EqID": "99W011A",
+            "Line": "A",
+            "EqName": "On-line Weighing",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "153"
+        },
+        {
+            "EqID": "99W011AS",
+            "Line": "A",
+            "EqName": "Weighing Scale",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "154"
+        },
+        {
+            "EqID": "99W011B",
+            "Line": "B",
+            "EqName": "On-line Weighing",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "155"
+        },
+        {
+            "EqID": "99W050A",
+            "Line": "Jumbo A",
+            "EqName": "Jumbo A",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "156"
+        },
+        {
+            "EqID": "99X010C",
+            "Line": "C",
+            "EqName": "Palletizer",
+            "Unit": "PPE",
+            "pic": "55F012B.JPG",
+            "id": "157"
+        },
+        {
+            "EqID": "99X010D",
+            "Line": "D",
+            "EqName": "Palletizer",
+            "Unit": "PPE",
+            "pic": "55F012B.JPG",
+            "id": "158"
+        },
+        {
+            "EqID": "99H010C",
+            "Line": "C",
+            "EqName": "Belt Conveyor",
+            "Unit": "PPE",
+            "pic": "Belt_Conveyor_C.JPG",
+            "id": "159"
+        },
+        {
+            "EqID": "99H010D",
+            "Line": "D",
+            "EqName": "Belt Conveyor",
+            "Unit": "PPE",
+            "pic": "Belt_Conveyor_D.JPG",
+            "id": "160"
+        },
+        {
+            "EqID": "99W010C",
+            "Line": "C",
+            "EqName": "Weighing Scale",
+            "Unit": "PPE",
+            "pic": "55F012B.JPG",
+            "id": "161"
+        },
+        {
+            "EqID": "99W010D",
+            "Line": "D",
+            "EqName": "Weighing Scale",
+            "Unit": "PPE",
+            "pic": "55F012B.JPG",
+            "id": "162"
+        },
+        {
+            "EqID": "55W010A",
+            "Line": "A",
+            "EqName": "Weighing Scale",
+            "Unit": "PPC",
+            "pic": "55F012B.JPG",
+            "id": "163"
+        },
+        {
+            "EqID": "55W010B",
+            "Line": "B",
+            "EqName": "Weighing Scale",
+            "Unit": "PPC",
+            "pic": "55F012B.JPG",
+            "id": "164"
+        },
+        {
+            "EqID": "55W001A",
+            "Line": "A",
+            "EqName": "Bagging Machine",
+            "Unit": "PPC",
+            "pic": "55W001A.JPG",
+            "id": "166"
+        },
+        {
+            "EqID": "55W001B",
+            "Line": "B",
+            "EqName": "Bagging Machine",
+            "Unit": "PPC",
+            "pic": "55W001B.JPG",
+            "id": "168"
+        },
+        {
+            "EqID": "55H010A",
+            "Line": "A",
+            "EqName": "Belt Conveyor",
+            "Unit": "PPC",
+            "pic": "Belt_Conveyor_A.JPG",
+            "id": "169"
+        },
+        {
+            "EqID": "55H010B",
+            "Line": "B",
+            "EqName": "Belt Conveyor",
+            "Unit": "PPC",
+            "pic": "Belt_Conveyor_B.JPG",
+            "id": "170"
+        },
+        {
+            "EqID": "55H010SA",
+            "Line": "A",
+            "EqName": "Stretch Hood",
+            "Unit": "PPC",
+            "pic": "55F012B.JPG",
+            "id": "171"
+        },
+        {
+            "EqID": "55H010PA",
+            "Line": "A",
+            "EqName": "Palletizer",
+            "Unit": "PPC",
+            "pic": "55F012B.JPG",
+            "id": "172"
+        },
+        {
+            "EqID": "55H001SB",
+            "Line": "B",
+            "EqName": "Stretch Hood",
+            "Unit": "PPC",
+            "pic": "55F012B.JPG",
+            "id": "173"
+        },
+        {
+            "EqID": "55H030A",
+            "Line": "A",
+            "EqName": "Elevator",
+            "Unit": "PPC",
+            "pic": "55F012B.JPG",
+            "id": "174"
+        },
+        {
+            "EqID": "55H030B",
+            "Line": "B",
+            "EqName": "Lifter",
+            "Unit": "PPC",
+            "pic": "55F012B.JPG",
+            "id": "175"
+        },
+        {
+            "EqID": "35W020A",
+            "Line": "A",
+            "EqName": "Weighing Scale",
+            "Unit": "HD",
+            "pic": "55F012B.JPG",
+            "id": "176"
+        },
+        {
+            "EqID": "OtherPP12",
+            "Line": "PP12",
+            "EqName": "PP12",
+            "Unit": "PP12",
+            "pic": "55F012B.JPG",
+            "id": "177"
+        },
+        {
+            "EqID": "OtherHD",
+            "Line": "HD",
+            "EqName": "HD",
+            "Unit": "HD",
+            "pic": "55F012B.JPG",
+            "id": "178"
+        },
+        {
+            "EqID": "OtherPPC",
+            "Line": "PPC",
+            "EqName": "PPC",
+            "Unit": "PPC",
+            "pic": "55F012B.JPG",
+            "id": "179"
+        },
+        {
+            "EqID": "OtherPPE",
+            "Line": "PPE",
+            "EqName": "PPE",
+            "Unit": "PPE",
+            "pic": "55F012B.JPG",
+            "id": "180"
+        },
+        {
+            "EqID": "OtherPP3",
+            "Line": "PP3",
+            "EqName": "PP3",
+            "Unit": "PP3",
+            "pic": "55F012B.JPG",
+            "id": "181"
+        },
+        {
+            "EqID": "Repack",
+            "Line": "Repack",
+            "EqName": "Repack",
+            "Unit": "Repack",
+            "pic": "55F012B.JPG",
+            "id": "182"
+        },
+        {
+            "EqID": "JumboPIPE",
+            "Line": "JumboPIPE",
+            "EqName": "Jumbo PIPE",
+            "Unit": "PP12",
+            "pic": "NULL",
+            "id": "187"
+        },
+        {
+            "EqID": "Bulk Truck",
+            "Line": "Bulk Truck",
+            "EqName": "Bulk Truck",
+            "Unit": "PP12",
+            "pic": "NULL",
+            "id": "188"
+        }
+    ]
+}
